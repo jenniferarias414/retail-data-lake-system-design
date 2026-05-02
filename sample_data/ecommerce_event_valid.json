@@ -1,0 +1,12 @@
+{
+  "event_id": "evt_web_2001",
+  "event_type": "ecommerce_order",
+  "customer_id": "cust_842",
+  "order_id": "ord_9001",
+  "channel": "web",
+  "cart_total": 142.97,
+  "currency": "USD",
+  "email": "shopper@example.com",
+  "phone": "555-987-6543",
+  "event_timestamp": "2026-05-02T10:22:00Z"
+}

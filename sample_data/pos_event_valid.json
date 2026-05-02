@@ -1,0 +1,12 @@
+{
+  "event_id": "evt_pos_1001",
+  "event_type": "pos_transaction",
+  "customer_id": "cust_501",
+  "store_id": "store_22",
+  "transaction_total": 84.52,
+  "currency": "USD",
+  "payment_method": "credit_card",
+  "email": "customer@example.com",
+  "phone": "555-123-4567",
+  "event_timestamp": "2026-05-02T10:15:00Z"
+}
