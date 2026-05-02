@@ -1,4 +1,4 @@
-## Retail Data Lake System Design on AWS
+# Retail Data Lake System Design on AWS
 
 ## Overview
 
