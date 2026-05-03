@@ -1,0 +1,36 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.venv/
+venv/
+
+# Terraform local/generated files
+terraform/.terraform/
+terraform/terraform.tfstate
+terraform/terraform.tfstate.*
+terraform/*.zip
+terraform/crash.log
+terraform/crash.*.log
+
+# Local output inspection files
+outputs/
+
+# Environment / secrets
+.env
+*.env
+*.pem
+*.key
+
+# Editor folders
+.vscode/
+.idea/
+
+# Private learning notes
+private-notes/
+guided-build-notes.md
