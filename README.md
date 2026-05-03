@@ -254,19 +254,43 @@ terraform destroy
 
 ---
 
-## Planned Screenshots
+## Proof-of-Concept Screenshots
 
-Screenshots will be added after the proof-of-concept is deployed.
+### Terraform Plan
 
-Planned screenshots:
+![Terraform Plan](screenshots/01_terraform_plan.png)
 
-- Architecture diagram
-- Terraform apply
-- Raw S3 upload
-- Lambda CloudWatch logs
-- Curated S3 output
-- Error record routing
-- GitHub README
+### Terraform Apply Outputs
+
+![Terraform Apply Outputs](screenshots/02_terraform_apply_outputs.png)
+
+### Raw S3 Upload
+
+![Raw S3 Upload](screenshots/03_raw_s3_upload.png)
+
+### Lambda S3 Trigger
+
+![Lambda S3 Trigger](screenshots/04_lambda_s3_trigger.png)
+
+### Curated S3 Output
+
+![Curated S3 Output](screenshots/05_curated_s3_output.png)
+
+### Error Record Output
+
+![Error Record Output](screenshots/06_error_record_output.png)
+
+### CloudWatch Logs
+
+![CloudWatch Logs](screenshots/07_cloudwatch_logs.png)
+
+### Valid Curated Output in Terminal
+
+![Valid Curated Output](screenshots/08_terminal_valid_curated_output.png)
+
+### Invalid Error Output in Terminal
+
+![Invalid Error Output](screenshots/09_terminal_invalid_error_output.png)
 
 ---
 
