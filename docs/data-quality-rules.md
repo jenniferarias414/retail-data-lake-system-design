@@ -141,3 +141,4 @@ In a production implementation, data quality could be expanded with:
 - Row count reconciliation
 - Automated alerts for quality failures
 - Great Expectations, Deequ, dbt tests, or Glue Data Quality
+- Data lineage tracking
