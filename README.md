@@ -553,6 +553,7 @@ retail-data-lake-system-design/
 ├── docs/
 │   ├── architecture-decisions.md
 │   ├── cost-control.md
+│   ├── data-flow.md
 │   ├── data-quality-rules.md
 │   ├── operational-runbook.md
 │   └── security-governance.md
@@ -591,6 +592,7 @@ retail-data-lake-system-design/
 | [`architecture/requirements-mapping.md`](architecture/requirements-mapping.md) | Maps business and technical requirements to technology choices, benefits, risks, and mitigations |
 | [`architecture/platform-decision.md`](architecture/platform-decision.md) | Compares Snowflake and Redshift as warehouse options |
 | [`docs/architecture-decisions.md`](docs/architecture-decisions.md) | Explains why major architecture choices were made |
+| [`docs/data-flow.md`](docs/data-flow.md) | Explains the source-to-target flow across the future-state architecture and proof-of-concept |
 | [`docs/security-governance.md`](docs/security-governance.md) | Describes PII, IAM, encryption, audit, and governance considerations |
 | [`docs/data-quality-rules.md`](docs/data-quality-rules.md) | Documents validation rules used in the Lambda proof-of-concept |
 | [`docs/cost-control.md`](docs/cost-control.md) | Explains how the proof-of-concept was scoped to control AWS cost |
