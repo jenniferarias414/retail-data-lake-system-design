@@ -444,3 +444,4 @@ Raw S3 upload
 ```
 
 This slice is small, but it demonstrates an important production pattern: raw data should be validated, protected, enriched with metadata, and routed intentionally before it becomes trusted analytics data.
+.
